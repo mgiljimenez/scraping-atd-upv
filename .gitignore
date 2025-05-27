@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entorno virtual
+venv/
+
+# Configuración privada
+.env
+
+# Otros
+.DS_Store
+*.log
+*.sqlite3
+*.db
+*.swp

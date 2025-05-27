@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .sidebar {
+        width: 0 !important;
+        overflow: hidden;
+    }
+  
+    .sidebar.toggled {
+        width: 250px !important; /* Ajusta según el ancho de tu sidebar */
+    }
+  }
+  
