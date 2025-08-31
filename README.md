@@ -36,9 +36,10 @@ Accede desde tu navegador a:
 
 ## 🌐 Producción
 
-Desplegado en VPS (OVH Cloud) con Nginx, SSL (Let’s Encrypt) y systemd.  
-🔗 https://atd.rastrer.com
-(Actualmente no se da soporte a este proyecto y se dio de baja dicho servidor)
+Desplegado en VPS (OVH Cloud) con Nginx, SSL (Let’s Encrypt) y systemd. 
+Actualmente no se da soporte a este proyecto y se dio de baja dicho servidor
+🔗 https://atd.rastrer.com 
+
 ---
 
 © UPV · Proyecto académico con fines demostrativos
